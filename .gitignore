@@ -1,0 +1,6 @@
+SSLexchange.sln
+SSLExchange/Properties/
+SSLClient/Properties/
+SSLExchange/obj/
+SSLClient/obj/
+.vs/
